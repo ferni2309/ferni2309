@@ -26,7 +26,7 @@ Aquí puedes ver un resumen de mi actividad y los lenguajes que más utilizo en 
 ¿Tienes una propuesta o quieres colaborar en algún proyecto? ¡Conectemos!
 
 [![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
-[![Gmail](https://img.shields.io)](mailto:fernando.orodriguez@hotmail.com)
+[![Hotmail](https://img.shields.io)](mailto:fernando.orodriguez@hotmail.com)
 
 ---
 *“Buscando aportar valor a través del código y la innovación.”*
