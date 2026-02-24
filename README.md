@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Fernando Orozco 👋
 
-<!--
-**ferni2309/ferni2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Desarrollador Web** enfocado en construir aplicaciones que no solo funcionen, sino que aporten valor real. Mi camino en la programación está guiado por la curiosidad y el deseo de mejora continua.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas:
+![HTML5](https://img.shields.io)
+![CSS3](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas de GitHub:
+Aquí puedes ver un resumen de mi actividad y los lenguajes que más utilizo en mis proyectos:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+</p>
+
+### 🚀 Sobre mí:
+- 🔭 Actualmente trabajando en perfeccionar mi [Portafolio Web](https://ferni2309.github.io).
+- 🌱 Aprendiendo nuevas herramientas para desarrollar proyectos más complejos e innovadores.
+- ⚡ Me motiva transformar retos técnicos en experiencias digitales funcionales.
+
+### 📬 ¡Hablemos!
+¿Tienes una propuesta o quieres colaborar en algún proyecto? ¡Conectemos!
+
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+[![Gmail](https://img.shields.io)](mailto:fernando.orodriguez@hotmail.com)
+
+---
+*“Buscando aportar valor a través del código y la innovación.”*
